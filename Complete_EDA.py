@@ -1,4 +1,5 @@
-
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 # Load cleaned data
 data = pd.read_csv('cleaned_bangalore_house_data.csv')
